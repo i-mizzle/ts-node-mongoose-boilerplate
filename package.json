@@ -1,5 +1,5 @@
 {
-  "name": "blog-api",
+  "name": "ts-node-mongoose-api-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
